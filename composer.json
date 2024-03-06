@@ -61,10 +61,10 @@
             "php-http/discovery": true
         },
         "platform": {
-            "php": "8.0"
+            "php": "8.0.30"
         },
         "require": {
-            "php": "^8.0"
+            "php": "^8.0.30"
         },
         "scripts": {
             "post-install-cmd": [
