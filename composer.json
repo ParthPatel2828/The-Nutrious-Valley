@@ -64,7 +64,7 @@
             "php": "8.0.30"
         },
         "require": {
-            "php": "^8.0.30"
+            "php": "^8.0"
         },
         "scripts": {
             "post-install-cmd": [
