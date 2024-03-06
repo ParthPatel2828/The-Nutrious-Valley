@@ -22,7 +22,7 @@
             <h5>Stay Connected</h5>
             <p>Follow us on social media for updates:</p>
             <a class="fa fa-facebook" href="#"></a>
-            <a class="fa fa-whatsapp" href="#"></a>
+            <a class="fa fa-whatsapp" href="https://wa.me/9825524050"></a>
             <a class="fa fa-instagram" href="https://www.instagram.com/thenutritiousvalley/"></a>
             <a class="fa fa-linkedin" href="#"></a>
             

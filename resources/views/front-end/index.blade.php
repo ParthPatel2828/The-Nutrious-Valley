@@ -12,7 +12,7 @@
             </div>
             <div class="col-lg-6 col-md-12 col-sm-12">
               <div class="row text  mx-4 my-5 ms-auto">
-                <h4 class="mt-4">Welcome To The Nutritious valley</h4>
+                <h4 class="mt-2">Welcome To The Nutritious valley</h4>
                 <p class=" mt-3 ">Welcome to The Nutritious valley , where <span>DT VRUNDA PATEL</span> embark on a journey dedicated to your well-being. Our mission is to guide you towards a healthier and happier life through the power of nutrition. With a health of knowledge accumulated over four years, we are committed to providing you with expert personalized and the latest advice.</p>
                 <div class="col-lg-12  col-sm-12">
                   <a class="btn c3 ms-1 mx-4 my-4" type="submit" href="https://docs.google.com/forms/d/e/1FAIpQLSerynwPqCTjJBmo4QgQzxLOsNZ7x6HkCuj-r-eP8gmPRXdNrQ/viewform">BOOK AN APPOINTMENT</a>

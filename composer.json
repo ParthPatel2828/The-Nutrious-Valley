@@ -59,8 +59,24 @@
         "allow-plugins": {
             "pestphp/pest-plugin": true,
             "php-http/discovery": true
+        },
+        "platform": {
+            "php": "8.0.30"
+        },
+        "require": {
+            "php": "^8.0.30"
+        },
+        "scripts": {
+            "post-install-cmd": [
+                "@php artisan optimize"
+            ],
+            "post-update-cmd": [
+                "@php artisan optimize"
+            ]
         }
     },
+    
     "minimum-stability": "stable",
     "prefer-stable": true
+    
 }
